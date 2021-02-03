@@ -1,1 +1,1 @@
-group work_1 original page: https://dormitory.kmutt.ac.th/main/booking
+groupwork_1 original page: https://dormitory.kmutt.ac.th/main/booking
